@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andylifeguard
 - 👀 I’m interested in ...Data Analyst
 - 🌱 I’m currently learning ...Python and R.
-- 💞️ I’m looking to collaborate on ...SQL or any study of Big Data.  
+- 💞️ I’m looking to collaborate on ...SQL/Power BI or any study of Big Data.  
 - 📫 How to reach me ...ALO!
 - 😄 Pronouns: ... Sin boludeces.
 - ⚡ Fun fact: ... Pesimo Surfer.
